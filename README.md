@@ -1,2 +1,5 @@
-# dangerous_dave_copy
-copy of the game dangerous dave written in c with SDL.
+# Dangerous Dave
+
+This is a copy of the game [Dangerous Dave]() written in C.
+[This](https://youtube.com/playlist?list=PLSkJey49cOgTSj465v2KbLZ7LMn10bCF9) video series was followed. Thanks to [Maizure](http://www.maizure.org/projects/lets-make-dangerous-dave/) for the series.
+[Unzexe](https://github.com/mywave82/unlzexe) used to decompress the original executable.
